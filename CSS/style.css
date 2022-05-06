@@ -81,7 +81,7 @@
 
 .news-content {
   width: 50%;
-  margin: 100px auto 0;
+  margin: 150px auto 0;
 }
 
 .news-logo {
@@ -259,6 +259,7 @@
   height: 50%;
   display: flex;
   align-items: center;
+  padding: 20px;
 }
 
 .service-sub1-image {
@@ -293,6 +294,7 @@
   height: 50%;
   display: flex;
   align-items: center;
+  padding: 20px;
 }
 
 .service-sub2-image {
@@ -393,13 +395,15 @@
   line-height: 1.5em;
   letter-spacing: 0.5px;
   color: #746f6f;
+  font-size: 0.9vw;
 }
 
 .card-end {
   display: flex;
   justify-content: space-between;
   color: #7a7878;
-  margin: 0 0 10px;
+  margin-bottom: 10px;
+  width: 100%;
 }
 
 .blog-link {
