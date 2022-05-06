@@ -395,7 +395,6 @@
   line-height: 1.5em;
   letter-spacing: 0.5px;
   color: #746f6f;
-  font-size: 0.9vw;
 }
 
 .card-end {
@@ -404,6 +403,7 @@
   color: #7a7878;
   margin-bottom: 10px;
   width: 100%;
+  font-size: 0.9vw;
 }
 
 .blog-link {
